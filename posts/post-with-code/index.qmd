@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+author: "Thisuri Jayarathne"
+date: "2025-07-22"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
