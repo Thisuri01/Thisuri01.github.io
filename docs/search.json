@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nThisuri Jayarathne\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 19, 2025\n\n\nThisuri Jayarathne\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Thisuri Jayarathne",
+    "section": "",
+    "text": "This is where the CV will go"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thisuri Jayarathne",
+    "section": "",
+    "text": "I’m Thisuri Jayarathne, a final-year undergraduate student specializing in Statistics at the University of Sri Jayewardenepura, Sri Lanka. I am passionate about data science, statistical modeling, and uncovering insights that can drive smarter decisions. With hands-on experience in data analysis, R, and Python, I enjoy transforming complex data into meaningful narratives.\nBeyond academics, I actively contribute as a writer for the Rotaract Club, where I merge creativity with communication to promote impactful ideas. My interests span from Time Series Analysis to Machine Learning, and I aspire to work in roles that combine research, analytics, and real-world applications of statistics."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
